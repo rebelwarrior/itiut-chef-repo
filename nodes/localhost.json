@@ -7,8 +7,9 @@
 
     "recipe[zsh]",
     "recipe[byobu]",
-    "recipe[tig]",
+    "recipe[compizconfig-settings-manager]",
     "recipe[ibus-mozc]",
-    "recipe[compizconfig-settings-manager]"
+    "recipe[indicator-multiload]",
+    "recipe[tig]"
   ]
 }
