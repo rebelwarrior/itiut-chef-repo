@@ -1,5 +1,9 @@
 {
   "run_list": [
-    "recipe[apt]"
+    "recipe[apt]",
+    "recipe[build-essential]",
+    "recipe[zsh]",
+    "recipe[vim]",
+    "recipe[git]"
   ]
 }
