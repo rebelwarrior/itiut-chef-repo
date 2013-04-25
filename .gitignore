@@ -1,8 +1,8 @@
-.*
-!.gitignore
-!.gitkeep
-
 Gemfile.lock
 Berksfile.lock
-vendor
+.bundle/
+vendor/
 cookbooks/*
+
+!.gitignore
+!.gitkeep
