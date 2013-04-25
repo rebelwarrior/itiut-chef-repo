@@ -6,6 +6,7 @@
     "recipe[vim]",
 
     "recipe[zsh]",
-    "recipe[byobu]"
+    "recipe[byobu]",
+    "recipe[tig]"
   ]
 }
