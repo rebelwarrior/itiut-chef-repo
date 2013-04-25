@@ -8,6 +8,7 @@
     "recipe[zsh]",
     "recipe[byobu]",
     "recipe[tig]",
+    "recipe[ibus-mozc]",
     "recipe[compizconfig-settings-manager]"
   ]
 }
