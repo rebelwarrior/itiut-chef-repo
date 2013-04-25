@@ -1,0 +1,5 @@
+name             'emacs24'
+description      'Installs/Configures emacs24'
+version          '0.1.0'
+depends          'apt'
+supports         'ubuntu'
