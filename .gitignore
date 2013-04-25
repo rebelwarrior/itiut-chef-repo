@@ -2,7 +2,7 @@ Gemfile.lock
 Berksfile.lock
 .bundle/
 vendor/
-cookbooks/*
+cookbooks/
 
 !.gitignore
 !.gitkeep
