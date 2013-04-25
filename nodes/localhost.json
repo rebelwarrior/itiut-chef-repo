@@ -1,12 +1,10 @@
 {
   "run_list": [
-    // berkshef recipes
     "recipe[apt]",
     "recipe[build-essential]",
-    "recipe[vim]",
     "recipe[git]",
+    "recipe[vim]",
 
-    // my recipes
     "recipe[zsh]"
   ]
 }
