@@ -5,6 +5,7 @@
     "recipe[git]",
     "recipe[vim]",
 
-    "recipe[zsh]"
+    "recipe[zsh]",
+    "recipe[byobu]"
   ]
 }
