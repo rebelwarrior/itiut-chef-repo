@@ -14,6 +14,11 @@
   unity-lens-shopping
   unity-webapps-common
   xul-ext-websites-integration
+
+  aisleriot
+  gnome-mahjongg
+  gnome-sudoku
+  gnomine
 }.each do |pkg|
   package pkg do
     action :purge
