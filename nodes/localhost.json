@@ -14,7 +14,6 @@
     "recipe[nautilus-dropbox]",
     "recipe[tig]",
 
-    "recipe[purge-ubuntuone-client]",
-    "recipe[purge-unity-webapps-service]"
+    "recipe[purge-packages]"
   ]
 }
