@@ -8,10 +8,10 @@
     "recipe[zsh]",
     "recipe[byobu]",
     "recipe[compizconfig-settings-manager]",
-    "recipe[dropbox]",
     "recipe[emacs24]",
     "recipe[ibus-mozc]",
     "recipe[indicator-multiload]",
+    "recipe[nautilus-dropbox]",
     "recipe[tig]"
   ]
 }
