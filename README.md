@@ -9,16 +9,19 @@ $ sudo apt-get update
 $ sudo apt-get upgrade
 ~~~
 
-### change settings
-- system settings
- - appearance -> launcher icon size 32
- - keyboard layout -> kill the X server ON
- - laugnage support -> install languages... -> japanese
- - language support -> keyboard input method system -> ibus
- - privacy -> online search OFF
- - time & date -> weekday, date and month, 24-hour time ON
-- software center -> view -> new applications in launcher OFF
-- launcher -> unlock unnecessary icons
+### change system settings
+- appearance
+ - look -> launcher icon size 32
+ - behavior -> enable workspaces ON
+- keyboard layout
+ - options -> key sequence to kill the X server ON
+- laugnage support
+ - install languages... -> japanese
+ - keyboard input method system -> ibus
+- privacy
+ - search results -> online search OFF
+- time & date
+ - clock -> weekday, date and month, 24-hour time ON
 
 ### install guest additions (for virtualbox)
 
