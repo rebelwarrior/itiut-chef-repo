@@ -25,7 +25,7 @@ $ sudo apt-get upgrade
 ### install vmware tools (for vmware)
 mount vmware tools, and ...
 ~~~
-$ tar xvf /media/user/VMware\ Tools\VMwareTools-xxx.tar.gz
+$ tar xvf /media/itiut/VMware\ Tools\VMwareTools-xxx.tar.gz
 $ cd vmware-tools-distrib
 $ sudo ./vmware-install.pl
 ~~~
