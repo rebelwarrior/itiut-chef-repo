@@ -12,6 +12,8 @@
     "recipe[ibus-mozc]",
     "recipe[indicator-multiload]",
     "recipe[nautilus-dropbox]",
-    "recipe[tig]"
+    "recipe[tig]",
+
+    "recipe[purge-unity-webapps-service]"
   ]
 }
