@@ -17,6 +17,7 @@
 
   aisleriot
   gnome-mahjongg
+  gnome-mines
   gnome-sudoku
   gnomine
 }.each do |pkg|
