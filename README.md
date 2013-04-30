@@ -19,7 +19,7 @@ $ sudo apt-get upgrade
  - install languages... -> japanese
  - keyboard input method system -> ibus
 - privacy
- - search results -> online search OFF
+ - search results -> include online search results OFF
 - time & date
  - clock -> weekday, date and month, 24-hour time ON
 
