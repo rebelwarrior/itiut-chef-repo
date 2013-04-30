@@ -34,7 +34,7 @@ $ sudo ./vmware-install.pl
 ~~~
 $ sudo apt-get install git build-essential libreadline-dev libssl-dev
 $ git clone git://github.com/sstephenson/rbenv.git ~/.rbenv
-$ git clone https://github.com/sstephenson/ruby-build.git ~/.rbenv/plugins/ruby-build
+$ git clone git://github.com/sstephenson/ruby-build.git ~/.rbenv/plugins/ruby-build
 $ echo 'export PATH="$HOME/.rbenv/bin:$PATH"' >> ~/.profile
 $ echo 'eval "$(rbenv init -)"' >> ~/.profile
 $ exec $SHELL -l
