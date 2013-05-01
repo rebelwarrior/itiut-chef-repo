@@ -13,8 +13,9 @@ $ sudo apt-get upgrade
 - appearance
  - look -> launcher icon size 32
  - behavior -> enable workspaces ON
-- keyboard layout
- - options -> key sequence to kill the X server ON
+- keyboard layout -> options
+ - ctrl key position -> caps lock ans ctrl
+ - key sequence to kill the X server ON
 - laugnage support
  - install languages... -> japanese
  - keyboard input method system -> ibus
