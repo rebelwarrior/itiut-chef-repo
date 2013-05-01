@@ -14,7 +14,7 @@ $ sudo apt-get upgrade
  - look -> launcher icon size 32
  - behavior -> enable workspaces ON
 - keyboard layout -> options
- - ctrl key position -> caps lock ans ctrl
+ - ctrl key position -> caps lock as ctrl
  - key sequence to kill the X server ON
 - laugnage support
  - install languages... -> japanese
