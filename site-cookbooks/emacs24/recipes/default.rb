@@ -16,3 +16,7 @@ end
 package "emacs24" do
   action :install
 end
+
+package "ibus-el" do
+  action :install
+end
