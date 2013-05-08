@@ -1,0 +1,5 @@
+name             'google-chrome'
+description      'Installs/Configures google-chrome'
+version          '0.1.0'
+depends          'apt'
+supports         'ubuntu'
