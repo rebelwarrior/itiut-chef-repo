@@ -63,6 +63,10 @@ $ cat ~/.ssh/id_rsa.pub >> ~/.ssh/authorized_keys
 ~~~
 
 ### clone chef repository and bundle install
+install libxslt-dev and libxml2-dev for Nokogiri
+~~~
+$ sudo apt-get install libxslt-dev libxml2-dev
+~~~
 ~~~
 $ git clone git@github.com:itiut/itiut-chef-repo.git
 $ cd itiut-chef-repo
