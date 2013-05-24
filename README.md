@@ -81,10 +81,6 @@ $ bundle exec berks install --path cookbooks
 ### run knife solo
 ~~~
 $ bundle exec knife solo prepare localhost
-// chef package for raring does not exists now.
-// so download manually chef package for quantal from opscode website,
-// and install it.
-
 $ bundle exec knife solo cook localhost
 ~~~
 
