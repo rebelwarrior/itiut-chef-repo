@@ -25,6 +25,7 @@ $ sudo apt-get upgrade
  - clock -> weekday, date and month, 24-hour time ON
 
 ### install guest additions (for virtualbox)
+[device] -> [install Guest Additions...], and restart
 
 ### install vmware tools (for vmware)
 mount vmware tools, and ...
