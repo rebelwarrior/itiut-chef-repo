@@ -9,7 +9,6 @@
     "recipe[byobu]",
     "recipe[compizconfig-settings-manager]",
     "recipe[emacs24]",
-    "recipe[google-chrome]",
     "recipe[ibus-mozc]",
     "recipe[indicator-multiload]",
     "recipe[nautilus-dropbox]",
