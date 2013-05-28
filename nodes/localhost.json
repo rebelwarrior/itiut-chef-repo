@@ -9,6 +9,7 @@
     "recipe[byobu]",
     "recipe[compizconfig-settings-manager]",
     "recipe[emacs24]",
+    "recipe[heroku-toolbelt]",
     "recipe[ibus-mozc]",
     "recipe[indicator-multiload]",
     "recipe[nautilus-dropbox]",
