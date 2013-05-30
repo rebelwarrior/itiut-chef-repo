@@ -13,6 +13,7 @@
     "recipe[ibus-mozc]",
     "recipe[indicator-multiload]",
     "recipe[nautilus-dropbox]",
+    "recipe[openjdk-7-jdk]",
     "recipe[tig]",
 
     "recipe[purge-packages]"
