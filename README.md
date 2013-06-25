@@ -16,7 +16,7 @@ $ sudo apt-get upgrade
 - keyboard layout -> options
  - ctrl key position -> caps lock as ctrl
  - key sequence to kill the X server ON
-- laugnage support
+- language support
  - install languages... -> japanese
  - keyboard input method system -> ibus
 - privacy
